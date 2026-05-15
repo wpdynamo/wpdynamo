@@ -1,18 +1,60 @@
-# Hi 👋, I'm Mahmoud
+<div align="center">
 
-💻 Developer & Builder  
-🚀 Working on Telegram Bots, Domain Tools & Apps  
-🛠️ Tech: React, Flutter, Node.js, PHP, MySQL
+# WPDynamo ⚡
 
-## Current Projects
-- ⏰ Learn The Clock App
-- 🤖 Telegram Domain Checker Bot
-- 📱 Mobile Parts Compatibility System
+### Building Smart Web Tools, Apps & Automation
 
-## Tech Stack
-![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react)
-![Flutter](https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter)
-![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs)
+🌐 https://wpdynamo.com
 
-## Contact
-- Telegram: @yourusername
+</div>
+
+---
+
+## 🚀 About WPDynamo
+
+WPDynamo is focused on building powerful digital solutions including:
+
+- 🌍 Domain & DNS Tools
+- 🤖 Telegram Bots & Automation
+- 📱 Mobile & Web Applications
+- ⚡ SaaS & Productivity Systems
+- 🛠️ Custom Development Solutions
+
+---
+
+## 🔥 Current Projects
+
+- ⏰ Learn The Clock App  
+- 🤖 Domain Checker Telegram Bot  
+- 📱 Mobile Parts Compatibility System  
+- 🌐 Web Development Tools
+
+---
+
+## 🛠️ Tech Stack
+
+<p align="left">
+<img src="https://skillicons.dev/icons?i=react,flutter,nodejs,php,mysql,js,ts,html,css,firebase,cloudflare,git,github,vscode" />
+</p>
+
+---
+
+## 📊 GitHub Stats
+
+<p align="center">
+<img src="https://github-readme-stats.vercel.app/api?username=wpdynamo&show_icons=true" />
+</p>
+
+<p align="center">
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=wpdynamo" />
+</p>
+
+---
+
+## 🌐 Connect With Us
+
+Website: https://wpdynamo.com
+
+GitHub: https://github.com/wpdynamo
+
+</div>
