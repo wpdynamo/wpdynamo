@@ -42,7 +42,9 @@ WPDynamo is focused on building powerful digital solutions including:
 ## 📊 GitHub Stats
 
 <p align="center">
-<img src="https://github-readme-stats.vercel.app/api?username=wpdynamo&show_icons=true" />
+  <img 
+    src="https://github-readme-stats-sigma-five.vercel.app/api?username=wpdynamo&show_icons=true&theme=dark"
+  />
 </p>
 
 <p align="center">
