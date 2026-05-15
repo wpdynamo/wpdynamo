@@ -48,7 +48,9 @@ WPDynamo is focused on building powerful digital solutions including:
 </p>
 
 <p align="center">
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=wpdynamo" />
+  <img 
+    src="https://streak-stats.demolab.com?user=wpdynamo&theme=dark"
+  />
 </p>
 
 ---
